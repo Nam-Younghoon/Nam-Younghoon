@@ -16,8 +16,13 @@ Here are some ideas to get you started:
 -->
 
   <ul>
-  <li> YoungHoon, Nam </li>
-
+  <li> Young Hoon, Nam </li>
+  </ul>
+  
+  ### Interested in
+  <ul>
+  <li> Swift, iOS </li>
+  <li> Java, Android </li>
   </ul>
   
   <a href="https://www.instagram.com/n.y.hoon/" >
