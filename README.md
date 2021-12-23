@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <li> Young Hoon, Nam </li>
   </ul>
   
-  ### 🙄 Interested in
+  ### 🙄 Interested In
   <ul>
   <li> <img src="https://img.shields.io/badge/Swift-red?logo=swift&logoColor=white"/> </li>
   <li> <img src="https://img.shields.io/badge/iOS-red?"/> </li>
@@ -28,6 +28,12 @@ Here are some ideas to get you started:
   
   </ul>
   
+  ### ✉ Contact Me
+  
   <a href="https://www.instagram.com/n.y.hoon/" >
   <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+  
+  <a href="mailto:huny3410@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
