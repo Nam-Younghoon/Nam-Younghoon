@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 
 <!--
 **Nam-Younghoon/Nam-Younghoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,10 +19,13 @@ Here are some ideas to get you started:
   <li> Young Hoon, Nam </li>
   </ul>
   
-  ### Interested in
+  ### 🙄 Interested in
   <ul>
-  <li> Swift, iOS </li>
-  <li> Java, Android </li>
+  <li> <img src="https://img.shields.io/badge/Swift-red?logo=swift&logoColor=white"/> </li>
+  <li> <img src="https://img.shields.io/badge/iOS-red?"/> </li>
+  <li> <img src="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white"/> </li>
+  <li> <img src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white"/> </li>
+  
   </ul>
   
   <a href="https://www.instagram.com/n.y.hoon/" >
