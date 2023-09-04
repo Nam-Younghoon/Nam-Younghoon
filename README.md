@@ -21,11 +21,11 @@ Here are some ideas to get you started:
   
   ### 🙄 Interested In
   <ul>
-  <li> <img src="https://img.shields.io/badge/Swift-red?logo=swift&logoColor=white"/> </li>
-  <li> <img src="https://img.shields.io/badge/iOS-red?"/> </li>
-  <li> <img src="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white"/> </li>
-  <li> <img src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white"/> </li>
-  
+    <li> <img src="https://img.shields.io/badge/iOS-red?"/> </li>
+    <li> <img src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white"/> </li>
+    <li> <img src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=skyblue"/> </li>
+    <li> <img src="https://img.shields.io/badge/python-blue?logo=python&logoColor=white"/> </li>
+    
   </ul>
   
   ### ✉ Contact Me
