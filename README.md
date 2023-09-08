@@ -20,11 +20,10 @@ Here are some ideas to get you started:
   </ul>
   
   ### 🙄 Interested In
-  <ul>
-    <li> <img src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white"/> </li>
-    <li> <img src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=skyblue"/> </li>
-    <li> <img src="https://img.shields.io/badge/python-blue?logo=python&logoColor=white"/> </li>
-  </ul>
+  <img src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=skyblue"/>
+  <img src="https://img.shields.io/badge/python-blue?logo=python&logoColor=white"/>
+  
   
   ### ✉ Contact Me
   
