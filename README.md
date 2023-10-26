@@ -37,4 +37,4 @@ Here are some ideas to get you started:
   
 
   ### Activity
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nam-Younghoon&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nam-Younghoon&count_private=true&show_icons=true&theme=radical)
