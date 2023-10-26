@@ -20,9 +20,9 @@ Here are some ideas to get you started:
   </ul>
   
   ### 🙄 Interested In
-  <img src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=skyblue"/>
-  <img src="https://img.shields.io/badge/python-blue?logo=python&logoColor=white"/>
+  <div><img src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white"/></div>
+  <div><img src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=skyblue"/></div>
+  <div><img src="https://img.shields.io/badge/python-blue?logo=python&logoColor=white"/></div>
 
   
   ### ✉ Contact Me
