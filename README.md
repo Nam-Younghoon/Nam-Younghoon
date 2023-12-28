@@ -27,12 +27,7 @@ Here are some ideas to get you started:
   
 
   ### ✉ Contact Me
-  
-  <a href="https://www.instagram.com/n.y.hoon/" >
-  <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
-  <br>
   <a href="mailto:huny3410@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
   
