@@ -20,11 +20,12 @@ Here are some ideas to get you started:
   </ul>
   
   ### 🙄 Interested In
-  <div><img src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white"/></div>
-  <div><img src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=skyblue"/></div>
-  <div><img src="https://img.shields.io/badge/python-blue?logo=python&logoColor=white"/></div>
-
+  <span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=Android&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"></span>
   
+
   ### ✉ Contact Me
   
   <a href="https://www.instagram.com/n.y.hoon/" >
