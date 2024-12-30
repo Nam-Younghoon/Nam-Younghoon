@@ -1,4 +1,4 @@
-### 💻 Software Engineer focused on Mobile Apps and Backend Development.
+### 💻 Software Engineer focused on Mobile Apps and Backend Development with a goal to become a Generalist
   
 ### 🛠️ Tech Stack I Use
 <span>![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)</span>
